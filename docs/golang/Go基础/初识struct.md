@@ -2,6 +2,9 @@
 title: 初识struct
 createTime: 2025/12/16 00:26:12
 permalink: /golang/lw46nqhj/
+tags:
+    - golang
+    - struct
 ---
 
 在 Go 语言中，`struct` 是一种非常重要的==复合数据类型==，用于将多个不同类型的数据组合成一个实体。它相当于其他语言中的类或对象，但 Go ==不直接支持类和继承==，`struct` 是构建对象的基础。

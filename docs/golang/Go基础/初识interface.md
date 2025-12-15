@@ -2,6 +2,9 @@
 title: 初识interface
 createTime: 2025/12/16 00:26:21
 permalink: /golang/z5h4bp9x/
+tags:
+    - golang
+    - interface
 ---
 
 在 Go 语言中，`interface` 是一种非常强大的类型，它定义了==一组方法的集合==。如果一个类型实现了这些方法，那么它就实现了该 `interface`，Go 的接口是==隐式实现==的，不需要显式声明。

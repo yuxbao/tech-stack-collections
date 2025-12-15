@@ -2,6 +2,10 @@
 title: channel入门
 createTime: 2025/12/15 23:38:35
 permalink: /golang/2qzk1z31/
+tags:
+    - golang
+    - channel
+    - 并发
 ---
 
 在Go语言中，channel是一种==管道==，是**多线程间进行数据通信**的方式。
