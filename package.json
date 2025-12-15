@@ -2,9 +2,9 @@
   "name": "tech-stack-collections",
   "type": "module",
   "version": "1.0.0",
-  "description": "个人技术栈一览",
+  "description": "个人技术栈知识汇总一览",
   "packageManager": "pnpm@10.23.0",
-  "author": "Ethan Bao <522425561@qq.com>",
+  "author": "Yux Bao <yux-bao@outlook.com>",
   "license": "MIT",
   "scripts": {
     "docs:build": "vuepress build docs --clean-cache --clean-temp",

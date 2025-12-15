@@ -47,18 +47,20 @@ export default defineUserConfig({
   shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
 
   theme: plumeTheme({
+    plugins: { git: true },
+    copyright: "CC-BY-4.0",
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    // hostname: 'https://your_site_url',
+    hostname: "https://tech.yux-bao.site",
 
     /* 文档仓库配置，用于 editLink */
-    // docsRepo: '',
-    // docsDir: 'docs',
+    docsRepo: "yuxbao/tech-stack-collections",
+    docsDir: "docs",
     // docsBranch: '',
 
     /* 页内信息 */
-    // editLink: true,
-    // lastUpdated: true,
-    // contributors: true,
+    editLink: true,
+    lastUpdated: true,
+    contributors: true,
     // changelog: false,
 
     /**
@@ -103,7 +105,7 @@ export default defineUserConfig({
     // },
 
     /* 文章字数统计、阅读时间，设置为 false 则禁用 */
-    // readingTime: true,
+    readingTime: true,
 
     /**
      * markdown
@@ -155,7 +157,7 @@ export default defineUserConfig({
      * 水印
      * @see https://theme-plume.vuejs.press/guide/features/watermark/
      */
-    // watermark: true,
+    watermark: true,
 
     /**
      * 评论 comments
