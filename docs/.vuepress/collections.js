@@ -58,7 +58,7 @@ const zhJavaDoc = defineCollection({
   // 文档标题，它将用于在页面的面包屑导航中显示
   title: "Java",
   // 根据文件结构自动生成侧边栏
-  sidebar: 'auto',;
+  sidebar: "auto",
 });
 
 const zhGolangDoc = defineCollection({
@@ -73,7 +73,7 @@ const zhGolangDoc = defineCollection({
   // 文档标题，它将用于在页面的面包屑导航中显示
   title: "Golang",
   // 根据文件结构自动生成侧边栏
-  sidebar: 'auto',
+  sidebar: "auto",
 });
 
 /**
