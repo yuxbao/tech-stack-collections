@@ -19,20 +19,20 @@ config:
           text: 开始阅读 →
           link: /learn-notes/intro.md
         - theme: alt
-          text: Java 笔记
+          text: Java
           link: /java/
         - theme: alt
-          text: Golang 笔记
+          text: Golang
           link: /golang/
-        - theme: alt
-          text: 前端
-          link: /frontend/
-        - theme: alt
-          text: CS知识
-          link: /cs/
-        - theme: alt
-          text: 算法
-          link: /algorithm/
+        # - theme: alt
+        #   text: 前端
+        #   link: /frontend/
+        # - theme: alt
+        #   text: CS知识
+        #   link: /cs/
+        # - theme: alt
+        #   text: 算法
+        #   link: /algorithm/
         - theme: alt
           text: GitHub
           link: https://github.com/yuxbao/tech-stack-collections
