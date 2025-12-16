@@ -48,7 +48,16 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     plugins: { git: true },
-    copyright: "CC-BY-4.0",
+    copyright: {
+      license: {
+        name: "CC-BY-4.0", // 许可证名称
+      },
+      author: {
+        name: "Yux Bao", // 版权所有者名称
+        url: "https://yux-bao.site", // 版权所有者地址
+      },
+      creation: "original", // 创作方式
+    },
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     hostname: "https://tech.yux-bao.site",
 
