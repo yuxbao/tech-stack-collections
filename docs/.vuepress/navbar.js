@@ -8,6 +8,7 @@ import { defineNavbarConfig } from "vuepress-theme-plume";
 
 export const zhNavbar = defineNavbarConfig([
   { text: "首页", link: "/" },
+  {text: "博客", link: "https://yux-bao.site/blog/"},
   // { text: '博客', link: '/blog/' },
   // { text: '标签', link: '/blog/tags/' },
   // { text: '归档', link: '/blog/archives/' },
@@ -17,6 +18,9 @@ export const zhNavbar = defineNavbarConfig([
       { text: "学习笔记", link: "/learn-notes/intro.md" },
       { text: "Java", link: "/java/" },
       { text: "Golang", link: "/golang/" },
+      { text: "前端", link: "/frontend/" },
+      { text: "CS知识", link: "/cs/" },
+      { text: "算法", link: "/algorithm/" },
     ],
   },
 ]);

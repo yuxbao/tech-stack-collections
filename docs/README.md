@@ -5,6 +5,7 @@ config:
   - type: hero
     full: true
     forceDark: false
+    # effect: liquid-chrome
     effect: prism
     # effect: pixel-blast
     # effect: hyper-speed
@@ -23,6 +24,15 @@ config:
         - theme: alt
           text: Golang 笔记
           link: /golang/
+        - theme: alt
+          text: 前端
+          link: /frontend/
+        - theme: alt
+          text: CS知识
+          link: /cs/
+        - theme: alt
+          text: 算法
+          link: /algorithm/
         - theme: alt
           text: GitHub
           link: https://github.com/yuxbao/tech-stack-collections
