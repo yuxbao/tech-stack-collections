@@ -3,6 +3,8 @@ title: Golang 笔记
 createTime: 2025/12/15 22:30:00
 permalink: /golang/
 next: /golang/2qzk1z31/
+tags:
+    - Golang
 ---
 
 这里是 Golang 学习笔记的汇总。

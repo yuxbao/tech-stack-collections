@@ -3,6 +3,8 @@ title: Java学习笔记
 createTime: 2025/12/15 22:22:32
 permalink: /java/
 next: /java/2pmp16wy/
+tags:
+    - Java
 ---
 
 这里是 Java 学习笔记的汇总。
