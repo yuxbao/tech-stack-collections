@@ -2,6 +2,9 @@
 title: error
 createTime: 2025/12/20 00:16:48
 permalink: /golang/xohzrwm8/
+tags:
+    - golang
+    - error
 ---
 
 本文对golang的`error`进行一个简单学习。

@@ -2,6 +2,9 @@
 title: AOP
 createTime: 2025/12/17 12:52:55
 permalink: /java/dkahs88i/
+tags:
+    - java
+    - aop
 ---
 
 ### 概念
