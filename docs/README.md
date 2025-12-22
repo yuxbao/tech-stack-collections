@@ -6,9 +6,9 @@ config:
     full: true
     forceDark: false
     # effect: liquid-chrome
-    effect: prism
+    # effect: prism
     # effect: pixel-blast
-    # effect: hyper-speed
+    effect: hyper-speed
     hero:
       name: 技术栈汇总
       tagline: Tech Stack Collections
